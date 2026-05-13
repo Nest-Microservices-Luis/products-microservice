@@ -12,3 +12,5 @@ COPY . .
 RUN npx prisma generate
 
 EXPOSE 3001
+
+# Crear imagen de Docker
